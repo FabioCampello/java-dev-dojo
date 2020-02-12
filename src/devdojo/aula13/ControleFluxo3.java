@@ -4,7 +4,7 @@ public class ControleFluxo3 {
 
 	public static void main(String[] args) {
 		// char, int, byte, enum e String
-		byte dia = 5;
+		byte dia = 9;
 		String semana = "";
 
 		switch (dia) {
@@ -33,6 +33,7 @@ public class ControleFluxo3 {
 				break;
 			}
 			default: {
+				semana = "opção inválida";
 				break;
 			}
 		}
