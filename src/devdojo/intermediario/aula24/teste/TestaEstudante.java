@@ -1,4 +1,4 @@
-package devdojo.intermediario.aula24.testes;
+package devdojo.intermediario.aula24.teste;
 
 import devdojo.intermediario.aula24.classes.Estudante;
 
